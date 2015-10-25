@@ -1,0 +1,13 @@
+lexer.ml
+parser.ml
+parser.mli 
+*.o 
+*.cmo 
+*.cmi 
+parser.output
+f 
+f.exe 
+TAGS 
+*~ 
+*.bak
+.depend
